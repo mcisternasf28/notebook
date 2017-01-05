@@ -1,0 +1,4 @@
+*.csv
+*.pdf
+.ipynb_checkpoints
+.Untitled.ipynb
